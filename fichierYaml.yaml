@@ -1,0 +1,4 @@
+train: /Users/rpc/Desktop/....../dataset/train/images
+val: /Users/rpc/Desktop/....../dataset/val/images
+nc: 8 # Nombre de classes
+names: ['classe 1','2,'3','4','5,'6','7','8'] # Liste ds classes
